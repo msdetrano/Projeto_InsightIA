@@ -1,4 +1,4 @@
-"""# Projeto InsightIA – Fundamentos de Gestão de Projetos
+# Projeto InsightIA – Fundamentos de Gestão de Projetos
 
 Este repositório contém o projeto acadêmico **InsightIA**, desenvolvido para a disciplina de Fundamentos de Gestão de Projetos
 do Centro Universitário UniFECAF.
@@ -12,4 +12,4 @@ Demonstrar a aplicação prática dos conceitos de gestão de projetos no planej
 
 ## Autor
 Marcos Detrano Rodrigues Junior
-"""
+
